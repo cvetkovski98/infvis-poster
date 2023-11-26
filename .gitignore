@@ -217,5 +217,6 @@ pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,venv,jupyternotebooks
 
-the-movies-dataset/
+the-movies-dataset/*
+!the-movies-dataset/processed.csv
 the-movies-dataset.zip
